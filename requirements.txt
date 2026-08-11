@@ -1,8 +1,7 @@
 # Pinned dependencies for reproducible installs
 # Note: sqlite3 is part of the Python standard library and should not be listed here.
-# If you require a pip-installable SQLite package, use pysqlite3-binary instead.
+# Do not include pysqlite3-binary unless you explicitly need a separate pip-provided SQLite package.
 python-telegram-bot==20.4
 requests==2.31.0
 web3==6.0.0
 pycoingecko==1.4.0
-pysqlite3-binary==0.4.7
