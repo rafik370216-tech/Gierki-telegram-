@@ -14,8 +14,8 @@ TOKEN = os.getenv("TELEGRAM_API_TOKEN")
 if not TOKEN:
     raise RuntimeError("Brak zmiennej środowiskowej TELEGRAM_API_TOKEN. Ustaw ją w .env lub w środowisku.")
 
-BOT_USERNAME = os.getenv("BOT_USERNAME", "YOUR_BOT_USERNAME")
-db = Database()
+BOT_USERNAME = os.getenv("BOT_USERNAME", Domibot , @Domidomu_Bot
+db = Database() HTTP API:8640236024:AAGqE9fA0YW2J9-WtsJryHr8jeTQlaaSyj0
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
