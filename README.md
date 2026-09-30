@@ -77,4 +77,4 @@ MIT License - patrz `LICENSE` w repozytorium
 ---
 
 **Autor:** [@rafik370216-tech](https://github.com/rafik370216-tech)
-**Status:** 🔨 W Rozwoju
+**Status:** ✅ Ukończone
