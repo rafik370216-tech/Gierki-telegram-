@@ -1,5 +1,10 @@
 # Pinned dependencies for reproducible installs
 python-telegram-bot==20.4
 requests==2.31.0
-web3==6.0.0
+web3==6.11.0
+eth-typing==3.5.0
+eth-keys==0.4.0
+eth-utils==2.3.1
+hexbytes==0.3.1
 pycoingecko==1.4.0
+pytest==7.4.0
